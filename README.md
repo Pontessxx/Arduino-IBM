@@ -1,3 +1,4 @@
+<img src="https://csg.tinkercad.com/things/bKQgxuuKfTC/t725.png?rev=1683576147331000000&s=&v=1&type=circuits" >
 # Monitoramento de Qualidade do Ar com Arduino
 
 Este projeto consiste em um dispositivo de monitoramento de qualidade do ar utilizando um Arduino e o sensor de gás MQ7. O objetivo é detectar a presença de monóxido de carbono (CO) no ar e fornecer indicações visuais por meio de LEDs e um display LCD.
