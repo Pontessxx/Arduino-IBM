@@ -30,3 +30,6 @@ Contribuições para aprimoramento deste projeto são bem-vindas. Sinta-se à vo
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+##tinkercad
+https://www.tinkercad.com/things/bKQgxuuKfTC
